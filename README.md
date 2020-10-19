@@ -94,8 +94,23 @@ Final essay
 * `Current portfolio allocation` - expected retirement age
 * `Age-based rebalancing service` - risk exposure reduced as time goes by
 - Reson for TDF's popularity: default-based choice architecture
-- to be continued
+- auto-enroll new participants to TDfs
+- source: Thaler and Sunstein, 2008
+- `choice architecture` - design of decision framework governing consumer choice
+- Default investment designations
+- Simplifying choice mechanism: TDF with portfolio selection is reduced to choice of expected retirement age
 
+## Traget-Date Funds, Glidepaths and Risk Aversion
+- links for aggressive equity strategy working better
+- Basu and Drew (2009)
+- Arnott et al (2013)
+- Estrada (2014)
+
+## The Duration Puzzle in Life-Cycle Investment
+- Fixed income duration puzzle: duration is overall around 5%
+- Optimal portfolio theory would say that it should decrease over time
+- Fixed income used for interest rate hedge
+- Investors make few active changes to portfolio mixes selected for them by the employer
 
 
 
